@@ -17,14 +17,14 @@ A console-based Personal Expense Tracker developed using Python and MySQL. The p
 14. average Expense
 15. Exit
 
-TECHNOLOGIES USED-
-1.Python
-2.MySQL
-3.MySQL Connector/Python
+ TECHNOLOGIES USED-
+ 1.Python
+ 2.MySQL
+ 3.MySQL Connector/Python
 
-CONCEPTS USED-
-1.CRUD Operations
-2.SQL Queries
-3.Aggregate Functions (SUM, AVG, MAX, MIN, COUNT)
-4.GROUP BY
+ CONCEPTS USED-
+ 1.CRUD Operations
+ 2.SQL Queries
+ 3.Aggregate Functions (SUM, AVG, MAX, MIN, COUNT)
+ 4.GROUP BY
 5.Database Connectivity
